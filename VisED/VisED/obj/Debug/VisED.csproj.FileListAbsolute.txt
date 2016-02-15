@@ -19,3 +19,6 @@ C:\Users\Mr\Documents\Visual Studio 2015\Projects\VisED\VisED\obj\Debug\style.ba
 C:\Users\Mr\Documents\Visual Studio 2015\Projects\VisED\VisED\obj\Debug\style.g.cs
 C:\Users\Mr\Documents\Visual Studio 2015\Projects\VisED\VisED\obj\Debug\VisED_Content.g.cs
 C:\Users\Mr\Documents\Visual Studio 2015\Projects\VisED\VisED\bin\Debug\Resources\EUROCAPS.TTF
+C:\Users\Mr\Source\Repos\VisED\VisED\VisED\bin\Debug\VisED.exe.config
+C:\Users\Mr\Source\Repos\VisED\VisED\VisED\obj\Debug\VisED.exe
+C:\Users\Mr\Source\Repos\VisED\VisED\VisED\obj\Debug\VisED.pdb

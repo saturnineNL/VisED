@@ -23,6 +23,8 @@ namespace VisED
         public MainWindow()
         {
             InitializeComponent();
+
+            // adding a comment
             
         }
 

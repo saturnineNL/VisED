@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Mr\Documents\Visual Studio 2015\Projects\VisED\VisED\obj\Debug\
+C:\Users\Mr\Source\Repos\VisED\VisED\VisED\obj\Debug\
 VisED
 none
 false
 DEBUG;TRACE
-C:\Users\Mr\Documents\Visual Studio 2015\Projects\VisED\VisED\App.xaml
+C:\Users\Mr\Source\Repos\VisED\VisED\VisED\App.xaml
 3974682230
 1-1590329817
 11279855417
 13738642453
 MainWindow.xaml;MarketDisplay.xaml;style.xaml;
 
-False
+True
 
